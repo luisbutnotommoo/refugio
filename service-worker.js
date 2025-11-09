@@ -3,8 +3,8 @@ const urlsToCache = [
   "/",
   "/index.html",
   "/assets/main.css",
-  "/assets/icon-192.svg",
-  "/assets/icon-512.svg"
+  "/assets/icon-192.png",
+  "/assets/icon-512.png"
 ];
 
 self.addEventListener("install", event => {
