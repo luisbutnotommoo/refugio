@@ -1,10 +1,11 @@
 {
   "name": "Refugio",
   "short_name": "Refugio",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#6200ee",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "description": "Refugio: tu espacio seguro en la web 🏳️‍🌈",
   "icons": [
     {
       "src": "assets/icon-192.png",
@@ -18,3 +19,4 @@
     }
   ]
 }
+
